@@ -1,2 +1,9 @@
-# iBOTS-Intro-to-Python-and-Pandas-for-Neuroscientists
-Material for iBOTS workshop: Intro to Neuroscience Data Analysis with Python and Pandas
+# iBOTS Workshop: Intro to Python and Pandas for Neuroscientists
+
+5-day workshop, from the iBOTS Team:
+- From 6th - 10th Nov 2023
+- Every day from 09:00 - 12:30
+
+### Content
+
+[**Day 1:**](day1) Exploring the Experiment Design with Pandas.
