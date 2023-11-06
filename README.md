@@ -7,4 +7,4 @@
 ### Content
 
 [**Day 1:**](day1) Exploring the Experiment Design with Pandas.
-[**Day 2:**](day2) Exploring Task Performance and Wheel Movemenr with Pandas and Seaborn.
+[**Day 2:**](day2) Exploring Task Performance and Wheel Movement with Pandas and Seaborn.
