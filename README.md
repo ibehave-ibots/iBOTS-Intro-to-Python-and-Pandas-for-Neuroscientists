@@ -8,3 +8,4 @@
 
 [**Day 1:**](day1) Exploring the Experiment Design with Pandas. <br>
 [**Day 2:**](day2) Exploring Task Performance and Wheel Movement with Pandas and Seaborn. <br>
+[**Day 3:**](day3) Exploring Pupil Position and LFP Signal with Pingouin, Pandas and Seaborn. <br>
