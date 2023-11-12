@@ -10,4 +10,4 @@
 [**Day 2:**](day2) Exploring Task Performance and Wheel Movement with Pandas and Seaborn. <br>
 [**Day 3:**](day3) Exploring Pupil Position and LFP Signal with Pingouin, Pandas and Seaborn. <br>
 [**Day 4:**](day4) Frequency Analysis and Spike Counts with Numpy and Matplotlib. <br>
-[**Day 5:**](day5) Spike Time Analysis with Pandas and Seaborn.
+[**Day 5:**](day5) Spike Time Analysis with Pandas and Matplotlib.
